@@ -31,18 +31,15 @@ An AI-powered sous-chef that turns your pantry into mouthwatering recipes—comp
 ## 🖼️ Images
 
 <p align="center">
-  <img src="/images/home.png"   alt="Home Screen"   width="600" />  
-  <em>Home screen with chat prompt</em>
+  <img src="/images/home.png"   alt="Home Screen"   width="100%" />  
 </p>
 
 <p align="center">
-  <img src="/images/agentic-workflow.png"   alt="Workflow Editor"   width="600" />  
-  <em>Agentic workflow editor (React Flow)</em>
+  <img src="/images/agentic-workflow.png"   alt="Workflow Editor"   width="100%" />  
 </p>
 
 <p align="center">
-  <img src="/images/dish.png"   alt="Dish Page"   width="600" />  
-  <em>AI-generated recipe, image banner & video tutorials</em>
+  <img src="/images/dish.png"   alt="Dish Page"   width="100%" />  
 </p>
 
 ---
